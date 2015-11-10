@@ -13,4 +13,5 @@ If you plan to contribute to the project understand the following:
 - Documentation is paramount please fill out descriptions for all Coach Views, build icons & labels using the established conventions.
 - Must use IBM BPM idioms (for example supporting the visibilty controls) when siutation applies.
 - When a control needs validation it needs to use an AJAX validation service.
-- All Coach View options should be checked for a null value on load. 
+- All Coach View options should be checked for a null value on load.
+- No one care how you feel about using jQuery, write less and do more is embraced here.
